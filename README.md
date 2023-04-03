@@ -1,17 +1,8 @@
-<style>
-  body {
-    background-color: #000;
-    color: #fff;
-    font-family: Arial, sans-serif;
-  }
-</style>
-
 # Sistema de Pagamentos
 
 
 Bem-vindo ao sistema de pagamentos em desenvolvimento! Este projeto é voltado para o front-end de uma página de pagamento com cartão de crédito, no qual
-esse cartão será salvo no banco de dados (caso o usuário queira salvar) e haverá a possibilidadedo póprio usuário excluir do banco de dados. Ele foi cons-
-truído usando HTML, CSS e JavaScript, com gerenciamento de pacotes do Yarn e execução do Node.js.
+esse cartão será salvo no banco de dados (caso o usuário queira salvar) e haverá a possibilidadedo póprio usuário excluir do banco de dados. Ele foi construído usando HTML, CSS e JavaScript, com gerenciamento de pacotes do Yarn e execução do Node.js.
 
 ## Instalação
 
